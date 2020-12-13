@@ -58,6 +58,10 @@ h2{
 .top-nav ul{
 	list-style-type:none;
 }
+.top-nav a{
+	list-style-type:none;
+	text-decoration:none;
+}
 
 .top-nav ul li{
 	transition: all 300ms ease;
