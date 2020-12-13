@@ -56,6 +56,8 @@ h1{
 
 h2{
   font-family:Georgia;
+  padding: 10px 20px;
+  margin-left: -20px;
 }
 
 .top-nav ul{
